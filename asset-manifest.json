@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fuelop/static/css/main.6f829ba9.chunk.css",
-    "main.js": "/fuelop/static/js/main.d486ff69.chunk.js",
-    "main.js.map": "/fuelop/static/js/main.d486ff69.chunk.js.map",
+    "main.js": "/fuelop/static/js/main.151e21da.chunk.js",
+    "main.js.map": "/fuelop/static/js/main.151e21da.chunk.js.map",
     "runtime-main.js": "/fuelop/static/js/runtime-main.864a23be.js",
     "runtime-main.js.map": "/fuelop/static/js/runtime-main.864a23be.js.map",
     "static/js/2.c14b1cba.chunk.js": "/fuelop/static/js/2.c14b1cba.chunk.js",
     "static/js/2.c14b1cba.chunk.js.map": "/fuelop/static/js/2.c14b1cba.chunk.js.map",
     "index.html": "/fuelop/index.html",
-    "precache-manifest.b8b8c4e23c91fafef9574e5cc03b4a29.js": "/fuelop/precache-manifest.b8b8c4e23c91fafef9574e5cc03b4a29.js",
+    "precache-manifest.434d5a56ff4c80f2a8a8335c6d459741.js": "/fuelop/precache-manifest.434d5a56ff4c80f2a8a8335c6d459741.js",
     "service-worker.js": "/fuelop/service-worker.js",
     "static/css/main.6f829ba9.chunk.css.map": "/fuelop/static/css/main.6f829ba9.chunk.css.map",
     "static/media/add.svg": "/fuelop/static/media/add.95228f7b.svg",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.864a23be.js",
     "static/js/2.c14b1cba.chunk.js",
     "static/css/main.6f829ba9.chunk.css",
-    "static/js/main.d486ff69.chunk.js"
+    "static/js/main.151e21da.chunk.js"
   ]
 }
